@@ -1,4 +1,3 @@
-cv.md
 # Dmitry Petrov
 ## Contacts
 - Location: Moscow
